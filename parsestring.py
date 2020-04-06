@@ -20,7 +20,7 @@ def process_str(string):
     Takes ra string as input and returns json format containing all names
     detected in input and their entity if able to clasify.
     """
-    to_remove_chars = ".,;!?()[]\{\}/\\=&$#@"
+    to_remove_chars = ".,;!?()[]\{\}/\\=&$#@'"
     data = []
     # Clean inpus string from any special character
     new_string = ""

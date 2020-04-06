@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/raw" -X POST -d "President Xi Jinping warned of the epidemic escalating outside the epicentre of Hubei province as more people travel and crowds gather across China." http://127.0.0.1:5000
